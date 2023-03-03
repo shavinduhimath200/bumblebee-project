@@ -1,0 +1,27 @@
+.AboutUs__Container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+    background: #BDCDD6;
+}
+
+.AboutUs__partOne {}
+
+.PartOne {
+    margin-left: 10px;
+}
+
+.PartOne h2 {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.PartOne p {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}

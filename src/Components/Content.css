@@ -1,0 +1,42 @@
+.header__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70vh;
+    background: #79bfea;
+}
+
+.header__text {
+    text-align: center;
+}
+
+.header__text h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: #EEE9DA 1px 0 10px;
+    margin-top: 20%;
+    margin-left: 50px;
+    font-size: 64px;
+    color: #6096B4;
+}
+
+.header__text h2 {
+    font-family: 'Courier New',
+        Courier,
+        monospace;
+    font-size: 30px;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    color: #794026;
+}
+
+.header__text h3 {
+    font-family: 'Courier New',
+        Courier,
+        monospace;
+    font-size: 22px;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    color: #A0522D;
+}
+
+.header__video {}
