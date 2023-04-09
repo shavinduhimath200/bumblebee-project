@@ -21,7 +21,7 @@ function Header(props) {
     <div className="header">
       <div className="header-left">
         <Link to="/all">
-          <div>BUMBLEBEE</div>
+          <div>SHOPNOW</div>
         </Link>
       </div>
       <Link to="/">
