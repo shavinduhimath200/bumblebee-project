@@ -1,5 +1,5 @@
 import "./style.css";
-import "@fontsource/quicksand";
+// import "@fontsource/quicksand";
 import Header from "./Header";
 import Slideshow from "./Slideshow";
 import { SlideshowImages } from "./SlideshowImages";

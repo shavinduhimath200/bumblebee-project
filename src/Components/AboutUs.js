@@ -10,18 +10,17 @@ function AboutUsBody() {
         <div className="PartOne">
           <h2>About Us</h2>
           <p>
-            From humble beginnings to Sri Lanka’s most trusted business-class
-            car service in just over 10 years, GoCheeta have grown with and for
-            the times. And yet, so little has changed about us. We still believe
-            that minicabs can be so much more than just a means to an end our
-            clients are right to expect extraordinary standards, and by allying
-            the latest technologies with traditional customer service values, we
-            can not only disrupt the industry, we can revolutionie it. Today,
-            our cars are responsible for getting over 1 million people where
-            they need to go each year in sri lanka alone. And with our business
-            expanding every day across the sri lanka. we will continue to
-            deliver that same executive service consistently, no matter where we
-            are.
+            Welcome to Bumblebee, a revolutionary loan offering website that allows customers to buy
+            their desired products and pay for them later. Our mission is to make shopping accessible
+            to everyone, regardless of their financial situation. We believe that everyone deserves the
+            opportunity to own the things they want, without having to worry about upfront costs.
+            At Bumblebee, we understand the challenges that many people face when trying to purchase
+            the things they need and want. That's why we offer flexible payment options that allow our
+            customers to spread their payments over time, without accruing any interest or hidden fees.
+            Our team is committed to providing our customers with the highest level of service and support.
+            We work hard to ensure that every customer is satisfied with their experience at Bumblebee. 
+            From our easy-to-use website to our friendly customer service team, we are here to help you 
+            every step of the way.
           </p>
         </div>
       </div>
